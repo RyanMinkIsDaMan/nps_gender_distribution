@@ -8,7 +8,7 @@ In September 2017, NPS publicly released its [employee listing](https://www.nps.
 ## Setup & Installation
 Follow [Fast.ai's guide](https://course.fast.ai/start_gcp.html) to set up a Google Cloud Platform (GCP) instance to run the notebooks in the repo.
 
-Download the publicly available list of most popular baby names in the US from 1930 to 2015 by the Social Security Administration to train, valiate, and test the model:
+Download the publicly available list of most popular baby names in the US from 1930 to 2015 by the Social Security Administration to train, validate, and test the model:
 * [original data](https://www.ssa.gov/oact/babynames/limits.html)
 * [cleaned data](https://data.world/howarder/gender-by-name)
 

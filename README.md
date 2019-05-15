@@ -3,14 +3,14 @@
 ## Background
 My friend is starting a new job at the National Park Service (NPS) and we are wondering about the gender distribution of NPS employees.
 
-In Spetember 2017, NPS pulicly released its [employee listing](https://www.nps.gov/aboutus/foia/foia-frd.htm).
+In September 2017, NPS publicly released its [employee listing](https://www.nps.gov/aboutus/foia/foia-frd.htm).
 
 ## Setup & Installation
 Follow [Fast.ai's guide](https://course.fast.ai/start_gcp.html) to set up a Google Cloud Platform (GCP) instance to run the notebooks in the repo.
 
 Download the publicly available list of most popular baby names in the US from 1930 to 2015 by the Social Security Administration to train, valiate, and test the model:
 * [original data](https://www.ssa.gov/oact/babynames/limits.html)
-* [cleaded data](https://data.world/howarder/gender-by-name)
+* [cleaned data](https://data.world/howarder/gender-by-name)
 
 ## Data Preparation
 Use Excel or Numbers to convert the Employee Listing excel file to csv.

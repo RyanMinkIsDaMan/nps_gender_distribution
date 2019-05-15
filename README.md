@@ -26,3 +26,6 @@ data
 Run `gender_classification.ipynb` to train, validate, and test the model.
 
 Run `nps_gender_distribution.ipynb` to run the model on the NPS employee listing to obtain a gender distribution of NPS employees.
+
+## Credits
+`lr_finder.py` is a slight modification of David Silva's [implementation](https://github.com/davidtvs/pytorch-lr-finder). 🙏
